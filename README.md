@@ -13,7 +13,7 @@ I sucessfully implemented the code required to initialize and operate the variou
 
 For one assignment, I struggled to locate the necessary functions I required to complete the assignment. It was only later that I discovered that I had led myself down the wrong path and was looking for the wrong solution to my problem and found the method I should have been using much later. I should have reseached the issue I was dealing with in a broader scope to notice that the path I was on would not lead me to a finished produt. Reading documentation for possible functions could have put me on a better path.
 
-##What tools and/or resources are you adding to your support network?
+## What tools and/or resources are you adding to your support network?
 
 
 
