@@ -15,7 +15,7 @@ For one assignment, I struggled to locate the necessary functions I required to 
 
 ## What tools and/or resources are you adding to your support network?
 
-
+I really enjoyed working with this little micro controller launchpad and the Texas Instruments Code Composer Studio. I will likely go on to continute experimenting with this board and practicing with operating GPIO to help with future projects with similar interfaces like Arduino. 
 
 ## What skills from this project will be particularly transferable to other projects and/or course work?
 
